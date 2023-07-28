@@ -1,0 +1,51 @@
+{
+    "1":
+    {
+        "name": "profile1", 
+        "username": "xxxxxx",
+        "password": "xxxxxx",
+        "proxy": "",
+        "browse_communities": [ "r/AskReddit", "r/programming" ],
+        "coordinates": 
+        {
+            "latitude": 40.7589111328125,
+            "longitude": -73.97901916503906,
+            "accuracy": 1100
+        },
+        "timezone": 
+        {
+            "timezoneId": "America/New_York"
+        },
+        "device_memory": "1",
+        "platform": "Win32",
+        "hardwareConcurrency": "2",
+        "webgl_vendor": "Google Inc.",
+        "webgl_renderer": "ANGLE (NVIDIA GeForce RTX 2070 SUPER Direct3D11 vs_5_0 ps_5_0)",
+        "canva_random": [ "0.8090655964562361", "0.595921408626545", "0.30899046197936797", "0.46736610676687795" ]
+    },
+
+    "2":
+    {
+        "name": "profile2",
+        "username": "xxxxxx",
+        "password": "xxxxxx",
+        "proxy": "",
+      "browse_communities": [ "r/AMA", "r/explainlikeimfive" ],
+        "coordinates": 
+        {
+            "latitude": 34.14780044555664,
+            "longitude": -118.14360046386719,
+            "accuracy": 450
+        },
+        "timezone": 
+        {
+            "timezoneId": "America/Los_Angeles"
+        },
+        "device_memory": "8",
+        "platform": "MacIntel",
+        "hardwareConcurrency": "16",
+        "webgl_vendor": "Apple Inc.",
+        "webgl_renderer": "Intel(R) HD Graphics 530",
+        "canva_random": [ "0.48940655666390254", "0.22809653603964875", "0.26653588848488763", "0.7392222438575149" ]
+    }
+}

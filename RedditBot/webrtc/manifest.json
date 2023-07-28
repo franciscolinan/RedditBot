@@ -1,0 +1,29 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": ".",
+  "description": ".",
+  "version": "1.0.0",
+  "browser_action": {
+    "browser_style": false,
+    "default_icon": "images/48-disabled.png",
+    "default_popup": "popup.html",
+    "default_title": "."
+  },
+  "icons": {
+    "16": "images/32.png",
+    "32": "images/32.png",
+    "48": "images/48.png",
+    "128": "images/128.png"
+  },
+  "permissions": [
+    "privacy",
+    "storage"
+  ],
+   "background": {
+    "scripts": [
+      "js/background.js"
+    ]
+  }
+}
