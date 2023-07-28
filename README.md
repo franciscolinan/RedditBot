@@ -1,2 +1,2 @@
 # RedditBot
-Reddit undetected bot
+Reddit undetected bot with anti-fingerprint
