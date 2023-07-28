@@ -34,7 +34,6 @@ def RunBot(bot: Reddit):
         if bot.ScrollDown():
             bot.ResetActionTime()
             bot.SetActionDuration(random.randint(1, 8))
-    input()
 
 if __name__ == "__main__":
     bots = []
