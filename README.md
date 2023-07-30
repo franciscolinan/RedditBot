@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This is an automated Python bot designed to promote products on Reddit using intelligent posting strategies and antifingerprint techniques. The bot is being developed to interact with the Reddit platform and create posts and comments that promote specified products in a natural and non-spammy manner.
+This is an automated Python bot designed to promote products or services on Reddit using intelligent posting strategies and antifingerprint techniques. The bot is being developed to interact with the Reddit platform and create posts and comments that promote specified products in a natural and non-spammy manner.
 
 **Note**: This project is still a work in progress, and the code is currently unfinished. Certain features, optimizations, and improvements are yet to be implemented.
 
