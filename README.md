@@ -22,6 +22,27 @@ To run this bot, you need the following prerequisites:
 - undetected_chromedriver
 - selenium_stealth
 
-###Installation
+### Installation
 
 Clone this repository to your local machine:
+
+`git clone https://github.com/franciscolinan/RedditBot.git
+cd RedditBot`
+
+## Configuration
+Modify the config.json file to customize the bot's profile and anti-fingerprint settings.
+
+## Usage
+To run the bot, execute the following command:
+
+`python bot.py`
+
+## Antifingerprint Techniques
+
+To improve the bot's longevity and reduce the risk of detection, the following antifingerprint techniques have been implemented:
+
+- Randomized time intervals between actions
+- Variation in posting and commenting patterns
+- Spoofed WebGL, WebRTC, Geolocation, Timezone, IP, Device Memory, Platform, Hardware Concurrency and Canvas
+
+We appreciate your interest in this project! Feel free to contribute to its development and make it more robust and efficient in promoting on Reddit while maintaining a low profile. Happy coding!
