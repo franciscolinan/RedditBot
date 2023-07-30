@@ -26,7 +26,8 @@ To run this bot, you need the following prerequisites:
 
 Clone this repository to your local machine:
 
-`git clone https://github.com/franciscolinan/RedditBot.git cd RedditBot`
+`git clone https://github.com/franciscolinan/RedditBot.git 
+cd RedditBot`
 
 ## Configuration
 Modify the config.json file to customize the bot's profile and anti-fingerprint settings.
