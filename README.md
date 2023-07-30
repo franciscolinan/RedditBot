@@ -8,18 +8,19 @@ This is an automated Python bot designed to promote products or services on Redd
 
 ## Features
 
-- Automated posting of content on Reddit.
-- Antifingerprint techniques to avoid detection and improve longevity.
-- Intelligent scheduling of posts to appear organic and minimize suspicion.
-- Customizable promotion strategy to suit different Reddit communities.
+- Automated posting of content on Reddit
+- Antifingerprint techniques to avoid detection and improve longevity
+- Intelligent scheduling of posts to appear organic and minimize suspicion
+- Customizable promotion strategy to suit different Reddit communities
 
 ## Getting Started
 
 ### Prerequisites
 To run this bot, you need the following prerequisites:
 
-- Python 3.
-- undetected-chromedriver .
+- Python 3
+- undetected_chromedriver
+- selenium_stealth
 
 ###Installation
 
